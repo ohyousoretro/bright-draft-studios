@@ -1,8 +1,8 @@
 module.exports = {
     name: "Bright Draft Studio",
     email: "nick@brightdraftstudio.com",
-    phoneForTel: "5868020579",
-    phoneFormatted: "(586) 802-0579",
+    phoneForTel: "2485094633",
+    phoneFormatted: "(248) 509-4633",
     address: {
         lineOne: "First Address Line",
         lineTwo: "Second Address Line",
